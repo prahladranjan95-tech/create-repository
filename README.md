@@ -20,6 +20,6 @@ You can also pass values for name and description.
 $ create-repository --name my-new-project --description "That's all I have to say about that"
 ```
 
-## License
+## License.
 
 MIT
